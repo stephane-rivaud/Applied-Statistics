@@ -118,9 +118,8 @@ By the end of this lesson, you should be able to:
 ## Related Lessons
 
 - Lesson 1: Statistical Modeling
-- Lesson 2: Parameter Estimation
+- Lesson 2: Statistical Learning
 - Lesson 3: Estimator Properties
-- Lesson 5: Regression Modeling (upcoming)
 
 ---
 
